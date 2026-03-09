@@ -1,1 +1,11 @@
-PLACEHOLDER, GIT DOES NOT COMMIT EMPTY FOLDERS
+In this practice using the tutorials that have been showed to us before I:
+
+Created an Usuario class (with its own file) using __construct, setterts and getters,
+then i called to instance it.
+Also, using the Setters function I changed the value.
+
+The output its shown in a simple html page with no css for design.
+
+To see the output I used the terminal to cd into the folder where these project its and then used: 
+    php -S localhost:8000
+After that i used http://localhost:8000/index.php on my browser to check the output.

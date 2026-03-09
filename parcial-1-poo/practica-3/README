@@ -1,1 +1,12 @@
-PLACEHOLDER, GIT DOES NOT COMMIT EMPTY FOLDERS
+To use catch and exceptions.
+
+First I created the Usuario class in the file Usuario.php
+    In this class i added to the setCorreo function a filter using the
+    FILTER_VALIDATE_EMAIL function already part of PHP to check if the email 
+    is in a valid format.
+Then i created the Alumno and Admin classes, both refered the Usuario class.
+And finally on the index.php file I instanced bothe Alumno and Admin, and made an example of the catch function.
+
+To see the output I used the terminal to cd into the folder where these project its and then used: 
+    php -S localhost:8000
+After that i used http://localhost:8000/index.php on my browser to check the output.

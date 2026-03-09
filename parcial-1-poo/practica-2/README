@@ -1,1 +1,8 @@
-PLACEHOLDER, GIT DOES NOT COMMIT EMPTY FOLDERS
+Created an Usuario class with its own file.
+Created an Admin class which inherited parameters from the Usuario class.
+
+The index.php file called the Admin class from Admin.php file and showed the output in a simple html page with no css for design.
+
+To see the output I used the terminal to cd into the folder where these project its and then used: 
+    php -S localhost:8000
+After that i used http://localhost:8000/index.php on my browser to check the output.
