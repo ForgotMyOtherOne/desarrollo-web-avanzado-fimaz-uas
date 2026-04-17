@@ -1,1 +1,3 @@
-PLACEHOLDER, GIT DOES NOT COMMIT EMPTY FOLDERS
+Gonna assume "Actividad 3.- Transacciones en PHP-PD" its "practica 3".
+
+In this practice we test pdo, specifically, transactions, try/catch and how to insert data into a database.
